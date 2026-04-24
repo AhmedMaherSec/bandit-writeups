@@ -1,4 +1,4 @@
-# Bandit Level 0
+# Bandit Level 0 → Level 1
 
 ## Goal
 Connect to the server and find the password for the next level.
