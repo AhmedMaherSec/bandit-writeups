@@ -1,4 +1,4 @@
-# Bandit Level 1 → Level 3
+# Bandit Level 1 → Level 2
 
 ## Goal
 Find the password in a file in the home directory and use it to log in to the next level via SSH.
