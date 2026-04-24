@@ -33,5 +33,5 @@ The password for the next level was found in the file `--spaces in this filename
 ### Alternative methods
 - To handle file names with spaces or special characters, I can use:
 ```cat ./"--spaces in this filename--"```
-- or
+or
 ```cat -- "--spaces in this filename--"```
