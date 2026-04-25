@@ -28,12 +28,12 @@ ls
 ```
 file ./*
 ```
-8. Found a file named `-file07` that is identified as ASCII text (human-readable).   
+8. Found a file named `-file07` that is identified as ASCII text (human-readable).
 Output:
-````
-./-file07: ASCII text
 ```
-10. Read the file:
+./-file07: ASCII text
+``` 
+9. Read the file:
 ```
 cat ./"-file07"
 ```
