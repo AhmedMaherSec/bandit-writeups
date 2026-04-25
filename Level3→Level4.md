@@ -12,7 +12,8 @@ ssh -p 2220 bandit3@bandit.labs.overthewire.org
 ```
 ls
 ```
-3. Found a directory named `inhere` 
+3. Found a directory named `inhere`
+
 4. Changed directory to `inhere` :
 ```
 cd inhere
