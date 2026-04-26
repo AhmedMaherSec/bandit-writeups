@@ -28,7 +28,7 @@ ls
 ```
 file ./*
 ```
-8. Found a file named `-file07` that is identified as ASCII text (human-readable).
+8. Found a file named `-file07` that is identified as ASCII text (human-readable).   
 Output:
 ```
 ./-file07: ASCII text
