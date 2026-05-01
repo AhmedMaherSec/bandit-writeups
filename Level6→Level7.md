@@ -1,4 +1,4 @@
-# Bandit Level 5 → Level 6
+# Bandit Level 6 → Level 7
 
 ## Goal
 Find the password in a file on the server owned by bandit7, group bandit6, and 33 bytes in size.
