@@ -17,7 +17,7 @@ cd /
 find . -size 33c -type f -user bandit7 -group bandit6
 ```
 4. The search returned many files, along with multiple `Permission denied` errors. 
-5. Ignored the "Permission denied" errors:
+5. Ignored the `Permission denied` errors:
 ```
 find . -size 33c -type f -user bandit7 -group bandit6 2>/dev/null
 ```
