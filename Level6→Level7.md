@@ -8,7 +8,7 @@ Find the password in a file on the server owned by bandit7, group bandit6, and 3
 ```
 ssh -p 2220 bandit6@bandit.labs.overthewire.org
 ```
-2. Changed directory to root directory`:
+2. Changed directory to root directory:
 ```
 cd /
 ```
