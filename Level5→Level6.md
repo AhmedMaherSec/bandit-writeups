@@ -1,7 +1,7 @@
 # Bandit Level 5 → Level 6
 
 ## Goal
-Find a file in the `inhere` directory that is human-readable, 1033 bytes, and not executable.
+Find the password stored in a file in the `inhere` directory that is human-readable, 1033 bytes, and not executable.
 
 ## Solution
 1. Connected to the server using SSH: 
