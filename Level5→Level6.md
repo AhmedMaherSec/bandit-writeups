@@ -39,7 +39,6 @@ The password for the next level was found in the file `./maybehere07/.file2`.
 ## Learning
 - I learned how to use the `find` command to search for files and directories.
 - Basic syntax: `find [path] [options] [expression]`
-- 
 - Useful options I learned:
   - `-name` → search by file name
   - `-type f` → search for files
