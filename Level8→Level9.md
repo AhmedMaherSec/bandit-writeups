@@ -23,10 +23,10 @@ The password is in the line that appears only once in the file.
 
 ## Learning
 - I learned that the `uniq` command is used to remove or handle duplicate lines in a file.
-- - Basic usage of `uniq` (without options) removes adjacent duplicate lines.
-- -`uniq -u` → shows only unique (non-repeated) lines.
-- -`uniq -d` → shows only duplicate lines.
-- -`uniq -c` → displays the number of occurrences of each line.
+  -`uniq` (without options) → removes adjacent duplicate lines.
+  -`uniq -u` → shows only unique (non-repeated) lines.
+  -`uniq -d` → shows only duplicate lines.
+  -`uniq -c` → displays the number of occurrences of each line.
 
 - I learned that `uniq` works properly only on sorted data, because it compares only adjacent lines. Therefore, it is usually used with the `sort` command.
-- - `sort` (without options) → sorts lines in a file in ascending order.
+  - `sort` (without options) → sorts lines in a file in ascending order.
