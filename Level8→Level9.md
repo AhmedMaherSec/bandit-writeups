@@ -29,4 +29,4 @@ The password is in the line that appears only once in the file.
   - `uniq -c` → displays the number of occurrences of each line.
 
 - I learned that `uniq` works properly only on sorted data, because it compares only adjacent lines. Therefore, it is usually used with the `sort` command.
-  -`sort` (without options) → sorts lines in a file in ascending order.
+  - `sort` (without options) → sorts lines in a file in ascending order.
