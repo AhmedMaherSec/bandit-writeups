@@ -1,7 +1,7 @@
 # Bandit Level 7 → Level 8
 
 ## Goal
-Find the password  is stored in the file data.txt next to the word millionth.
+Find the password  is stored in the file `data.txt` next to the word `millionth`.
 
 ## Solution
 1. Connected to the server using SSH: 
