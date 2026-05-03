@@ -37,8 +37,7 @@ file original
 11. Progressively decompressed the file using multiple tools based on its type.
     -`gunzip original.gz`
     -`bunzip2 original.bz2`
-  -`tar -xvf original.tar`
-```
+    -`tar -xvf original.tar`
 ## Result
 The password was found after repeatedly identifying file types and extracting multiple compressed layers until reaching the final readable file.
 ## Learning
