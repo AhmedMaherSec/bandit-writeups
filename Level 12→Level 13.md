@@ -31,13 +31,23 @@ xxd -r data.txt > original
 file original
 ```
 9. Renamed files when necessary to match the correct format before extraction, based on the identified file type at each step.
-`mv original original.gz`
-`mv original original.bz2`
+```
+mv original original.gz
+```
+```
+mv original original.bz2
+```
 
 10. Progressively decompressed the file using multiple tools based on its type.
-`gunzip original.gz`
-`bunzip2 original.bz2`
-`tar -xvf original.tar`
+```
+gunzip original.gz
+```
+```
+bunzip2 original.bz2
+```
+```
+tar -xvf original.tar
+```
 
 ## Result
 The password was found after repeatedly identifying file types and extracting multiple compressed layers until reaching the final readable file.
