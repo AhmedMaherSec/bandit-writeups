@@ -25,4 +25,4 @@ The password was found after extracting readable data from a large non-readable 
 - I learned that the `strings` command is used to extract human-readable text from binary files.
   - `strings [options] file`
 - I learned that `grep -E` is used to search for patterns using Extended Regular Expressions (ERE).
-  -`grep -E [regex] [file]` 
+  - `grep -E [regex] [file]` 
