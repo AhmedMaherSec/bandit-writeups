@@ -19,5 +19,5 @@ The password for the next level was returned by the server after submitting the 
 
 ## Learning
 - I learned that `ncat` is a network communication tool and an enhanced version of `nc`, as it supports encryption and additional features.
-- - Basic syntax:
+  - Basic syntax:
   - `ncat --ssl [host] [port]`
