@@ -14,7 +14,7 @@ ssh -p 2220 bandit16@bandit.labs.overthewire.org
 nmap -sV -p 31000-32000 127.0.0.1
 ```
 3. Identified an SSL/TLS-enabled service on port 31790 that was actively responding.
-4. I used `ncat` to establish a secure connection to the SSL/TLS service and piped the password using `echo` for submission:
+4. Used `ncat` to establish a secure connection to the SSL/TLS service and piped the password using `echo` for submission:
 ```
 echo "kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx" | ncat --ssl localhost 31790
 ```
