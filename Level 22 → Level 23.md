@@ -38,6 +38,6 @@ The password for the next level was found in a temporary file created by a cron 
 ## Learning
 - I learned that cron is a time-based job scheduler used to automatically execute scripts at regular intervals.
 
-- I learned how to analyze scheduled jobs in /etc/cron.d/ to understand system automation tasks.
+- I learned how to analyze scheduled jobs in `/etc/cron.d/` to understand system automation tasks.
 
 - I learned that some scripts generate dynamic file paths based on username hashing (e.g., md5sum), which can be reproduced manually to retrieve hidden data.
